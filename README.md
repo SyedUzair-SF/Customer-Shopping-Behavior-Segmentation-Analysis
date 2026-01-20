@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Shopping Behavior & Segmentation Analysis
 
 ## Objective
 Analyze customer transaction data to understand purchasing behavior, spending patterns, and customer segmentation.
